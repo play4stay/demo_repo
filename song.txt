@@ -7,3 +7,8 @@ second couplet
 added to
 simulate
 conflict
+
+adding third
+couplet
+during conflict
+immitation
